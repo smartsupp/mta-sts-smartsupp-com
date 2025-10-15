@@ -1,2 +1,2 @@
 # mta-sts-smartsupp-com
-Repository for hosting MTA-STS configuration for smartsupp.com domain. Is server via GitHub Pages.
+This repository hosts the MTA-STS configuration for the smartsupp.com domain and is served via GitHub Pages.
